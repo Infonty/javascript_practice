@@ -5,7 +5,7 @@ const promisee=createOrder(cart);
 
 promisee.then(function(orderId){
     proceedToPayment(orderId);
-});
+}).catch(function(err){console.log(err)});        //to handle errors 
 //Producer
 function createOrder(cartt){
     const pr=new Promise(function(resolve,reject){  //having resolve and reject fnc 
