@@ -3,18 +3,18 @@
 
 <ol>
     <li>MapFilterReduce</li>
-    <li>Promises.js</li>
-    <li>Promises_example.js</li>
-    <li>async_await.js</li>
-    <li>closures.js</li>
-    <li>constructor_fnc.js</li>
-    <li>higherOrderFnc.js</li>
-    <li>hoisting.js</li>
-    <li>producerOf_promises.js</li>
-    <li>promise_api.js</li>
-    <li>real_ex_of_async_await.js</li>
-    <li>rest_operator.js</li>
-    <li>setTimeout.js</li>
-    <li>slice_vs_splice.js</li>
+    <li>Promises</li>
+    <li>Promises_example</li>
+    <li>async_await</li>
+    <li>closures</li>
+    <li>constructor_fnc</li>
+    <li>higherOrderFnc</li>
+    <li>hoisting</li>
+    <li>producerOf_promises</li>
+    <li>promise_api</li>
+    <li>real_ex_of_async_await</li>
+    <li>rest_operator</li>
+    <li>setTimeout</li>
+    <li>slice_vs_splice</li>
    
 </ol>
